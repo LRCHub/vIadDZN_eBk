@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "GOOD BYE",
+  "base_artist": "hide",
+  "createdAt": "2026-02-06T17:59:50.719086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Time You Learned About Good-Bye",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/01_It's_Time_You_Learned_About_Good-Bye_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "안녕 (Good-bye, Hello)",
+      "artist": "소녀시대-태티서",
+      "has_synced": true,
+      "path": "select/02_안녕_(Good-bye,_Hello)_소녀시대-태티서.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "안녕 (Good-bye, Hello)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/03_안녕_(Good-bye,_Hello)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good-Bye",
+      "artist": "Luna",
+      "has_synced": false,
+      "path": "select/04_Good-Bye_Luna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Power Of Good-Bye",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_The_Power_Of_Good-Bye_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Power Of Good-Bye",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_The_Power_Of_Good-Bye_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Good-Bye",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/07_A_Good-Bye_Cameo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Good‐Bye",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/08_A_Good‐Bye_Cameo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Say Good-Bye For The Two Of Us",
+      "artist": "Expose",
+      "has_synced": true,
+      "path": "select/09_I'll_Say_Good-Bye_For_The_Two_Of_Us_Expose.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Bye Mary Lou",
+      "artist": "Angels of Light",
+      "has_synced": false,
+      "path": "select/10_Good_Bye_Mary_Lou_Angels_of_Light.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ain't No Good In Good-Bye",
+      "artist": "The Sylvers",
+      "has_synced": false,
+      "path": "select/11_Ain't_No_Good_In_Good-Bye_The_Sylvers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Bye You",
+      "artist": "UFO",
+      "has_synced": false,
+      "path": "select/12_Good_Bye_You_UFO.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Waving Good Bye",
+      "artist": "UFO",
+      "has_synced": false,
+      "path": "select/13_Waving_Good_Bye_UFO.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kiss Me Good-Bye",
+      "artist": "Doro",
+      "has_synced": true,
+      "path": "select/14_Kiss_Me_Good-Bye_Doro.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Believed In Good-Bye",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/15_Never_Believed_In_Good-Bye_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Farewell And Good Bye",
+      "artist": "Iron Savior",
+      "has_synced": true,
+      "path": "select/16_Farewell_And_Good_Bye_Iron_Savior.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good-bye Routine",
+      "artist": "Donots",
+      "has_synced": true,
+      "path": "select/17_Good-bye_Routine_Donots.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good-Bye - City Of Dope",
+      "artist": "Killer Mike",
+      "has_synced": true,
+      "path": "select/18_Good-Bye_-_City_Of_Dope_Killer_Mike.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Power Of Good-Bye",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/19_The_Power_Of_Good-Bye_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOOD BYE",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_01_GOOD_BYE_hide.txt"
+    }
+  ]
+}
