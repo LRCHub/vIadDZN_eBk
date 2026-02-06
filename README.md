@@ -1,0 +1,38 @@
+# hide – GOOD BYE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Say good bye ただ Good bye
+全ての煩(わずら)わしさに
+Good bye
+Say good bye ただ Good bye
+変わる事恐れずに Good bye
+あても無く ただ歩いて
+疲れた日々の宝に Good bye
+進んで行く 道標(みちしるべ)は
+最初と同じ風のままに
+If you can't find a way
+いくつもの Winding road
+空に手をかざして Round＆round
+まだ見ぬ土地に 不安覚えながら
+小さな詩(うた)に 尋ねる
+Please songs tell me true
+君のメロディー
+何処にいても 鳴り続けている
+またいつか 一人迷っても
+聞こえたなら 軽やかに歩き出せる
+Say good bye ただ Good bye
+傷つくのを恐れずに Good bye
+手の中の持ちきれない
+思いは全て捨てて行こう
+Please songs tell me true
+君のメロディー
+何処にいても 鳴り続けている
+もし何処か 一人迷っても
+歌えたなら しなやかに歩きだせる
+Good bye
+Good bye
+Good bye
+Good bye
+```
